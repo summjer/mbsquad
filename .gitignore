@@ -48,3 +48,7 @@ HANDOFF*.md
 # Any .bak files
 *.bak
 *.bak2
+
+# Relay compiled binaries
+relay/squad-relay*
+squad-relay*
