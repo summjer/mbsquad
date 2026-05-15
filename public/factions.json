@@ -1,0 +1,220 @@
+[
+  {
+    "code": "ADF",
+    "name": "澳国防军",
+    "roles": [
+      {
+        "code": "Armored",
+        "name": "装甲"
+      },
+      {
+        "code": "CombinedArms",
+        "name": "合成营"
+      },
+      {
+        "code": "LightInfantry",
+        "name": "轻步兵"
+      }
+    ]
+  },
+  {
+    "code": "BAF",
+    "name": "英陆军",
+    "roles": [
+      {
+        "code": "AirAssault",
+        "name": "空降/空突"
+      },
+      {
+        "code": "CombinedArms",
+        "name": "合成营"
+      }
+    ]
+  },
+  {
+    "code": "CAF",
+    "name": "加军",
+    "roles": [
+      {
+        "code": "CombinedArms",
+        "name": "合成营"
+      },
+      {
+        "code": "LightInfantry",
+        "name": "轻步兵"
+      },
+      {
+        "code": "Mechanized",
+        "name": "机械化"
+      },
+      {
+        "code": "Support",
+        "name": "支援"
+      }
+    ]
+  },
+  {
+    "code": "IMF",
+    "name": "非正规武装",
+    "roles": [
+      {
+        "code": "LightInfantry",
+        "name": "轻步兵"
+      }
+    ]
+  },
+  {
+    "code": "INS",
+    "name": "叛军",
+    "roles": [
+      {
+        "code": "LightInfantry",
+        "name": "轻步兵"
+      },
+      {
+        "code": "Mechanized",
+        "name": "机械化"
+      }
+    ]
+  },
+  {
+    "code": "MEA",
+    "name": "中东军",
+    "roles": [
+      {
+        "code": "Armored",
+        "name": "装甲"
+      },
+      {
+        "code": "CombinedArms",
+        "name": "合成营"
+      },
+      {
+        "code": "Mechanized",
+        "name": "机械化"
+      },
+      {
+        "code": "Motorized",
+        "name": "摩托化"
+      },
+      {
+        "code": "Support",
+        "name": "支援"
+      }
+    ]
+  },
+  {
+    "code": "PLA",
+    "name": "解放军",
+    "roles": [
+      {
+        "code": "AmphibiousAssault",
+        "name": "两栖机械化"
+      },
+      {
+        "code": "CombinedArms",
+        "name": "合成营"
+      }
+    ]
+  },
+  {
+    "code": "PLANMC",
+    "name": "海军陆战队",
+    "roles": [
+      {
+        "code": "AmphibiousAssault",
+        "name": "两栖机械化"
+      },
+      {
+        "code": "CombinedArms",
+        "name": "合成营"
+      }
+    ]
+  },
+  {
+    "code": "RGF",
+    "name": "俄地面部队",
+    "roles": [
+      {
+        "code": "Armored",
+        "name": "装甲"
+      },
+      {
+        "code": "CombinedArms",
+        "name": "合成营"
+      },
+      {
+        "code": "Motorized",
+        "name": "摩托化"
+      },
+      {
+        "code": "Support",
+        "name": "支援"
+      }
+    ]
+  },
+  {
+    "code": "TLF",
+    "name": "土耳其",
+    "roles": [
+      {
+        "code": "CombinedArms",
+        "name": "合成营"
+      }
+    ]
+  },
+  {
+    "code": "USA",
+    "name": "美军",
+    "roles": [
+      {
+        "code": "AirAssault",
+        "name": "空降/空突"
+      },
+      {
+        "code": "Armored",
+        "name": "装甲"
+      },
+      {
+        "code": "CombinedArms",
+        "name": "合成营"
+      },
+      {
+        "code": "LightInfantry",
+        "name": "轻步兵"
+      }
+    ]
+  },
+  {
+    "code": "USMC",
+    "name": "美海军陆战队",
+    "roles": [
+      {
+        "code": "AmphibiousAssault",
+        "name": "两栖机械化"
+      },
+      {
+        "code": "Armored",
+        "name": "装甲"
+      },
+      {
+        "code": "Support",
+        "name": "支援"
+      }
+    ]
+  },
+  {
+    "code": "VDV",
+    "name": "俄空降兵",
+    "roles": [
+      {
+        "code": "AirAssault",
+        "name": "空降/空突"
+      },
+      {
+        "code": "CombinedArms",
+        "name": "合成营"
+      }
+    ]
+  }
+]

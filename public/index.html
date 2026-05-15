@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>薯条面板</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300..700;1,9..40,300..700&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css?v=brighttech">
+<link rel="stylesheet" href="css/style-patch.css?v=brighttech">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
+</head>
+<body>
+<div id="app" style="display:flex;height:100vh;height:100dvh;width:100%"></div>
+<div id="modal-container"></div>
+<script>
+window.onerror=function(m,s,l,c,e){document.getElementById("app").innerHTML='<div style="padding:40px;color:#d93025;font-family:monospace;white-space:pre-wrap;background:#fff;height:100vh;overflow:auto">JS ERROR:\n'+m+'\n'+s+':'+l+':'+c+'\n\n'+(e&&e.stack?e.stack:'')+'</div>'};
+window.addEventListener("unhandledrejection",function(e){document.getElementById("app").innerHTML='<div style="padding:40px;color:#d93025;font-family:monospace;white-space:pre-wrap;background:#fff;height:100vh;overflow:auto">REJECTION:\n'+e.reason+'\n\n'+(e.reason&&e.reason.stack?e.reason.stack:'')+'</div>'});
+</script>
+<script type="module" src="js/app.js?v=1775700004"></script>
+</body>
+</html>

@@ -1,0 +1,50 @@
+# Build artifacts
+build/
+*.o
+*.so
+*.a
+CMakeCache.txt
+CMakeFiles/
+
+# Database
+data/
+*.db
+*.db-wal
+*.db-shm
+
+# All backup directories
+backup*/
+src-backup*/
+src.bak*/
+
+# Config with secrets
+config.ini
+config.ini.bak*
+
+# SSL certs
+*.pem
+*.key
+*.crt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node
+node_modules/
+
+# Relay binary
+squad-relay.exe
+
+# Handoff docs (internal)
+HANDOFF*.md
+
+# Any .bak files
+*.bak
+*.bak2
